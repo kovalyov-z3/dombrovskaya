@@ -445,7 +445,7 @@
     }
 
     h2 {
-        font-size: 36px;
+        font-size: 25px;
     }
 
     .section.principles {
@@ -565,8 +565,8 @@
     }
 
     .section.experience {
-        padding-top: 90px;
-        padding-bottom: 110px;
+        padding-top: 0px;
+        padding-bottom: 0px;
     }
 
     .experience__typical.h2:not(:last-child) {

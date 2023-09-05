@@ -89,7 +89,7 @@
 }
 
 .brand-title__fio {
-    /* font-family: "Futura PT Demi", sans-serif; */
+    font-family: "Futura PT Demi", sans-serif;
     color: #219653;
     text-transform: uppercase;
 }
@@ -380,29 +380,29 @@ fieldset:disabled a.btn {
 
 .btn-green {
     color: #ffffff;
-    background-color: #219653;
-    border-color: #219653;
+    background-color: #067389;
+    border-color: #067389;
 }
 
 .btn-green:hover {
     color: #ffffff;
-    background-color: #219653;
-    border-color: #219653;
+    background-color: #067389;
+    border-color: #067389;
     opacity: 0.8;
 }
 
 .btn-green.disabled,
 .btn-green:disabled {
     color: #ffffff;
-    background-color: #219653;
-    border-color: #219653;
+    background-color: #067389;
+    border-color: #067389;
 }
 
 .btn-green:not(:disabled):not(.disabled):active,
 .btn-green:not(:disabled):not(.disabled).active {
     color: #ffffff;
-    background-color: #219653;
-    border-color: #219653;
+    background-color: #067389;
+    border-color: #067389;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus,
@@ -423,7 +423,7 @@ html {
 
 body {
     background-color: #ffffff;
-    /* font-family: "Futura PT Book", sans-serif; */
+    font-family: "Futura PT Demi", sans-serif;
     font-weight: 400;
     color: #222222;
     letter-spacing: normal;
@@ -470,7 +470,7 @@ a:hover {
 
 .inp-checkbox label a {
     border-bottom: 1px solid currentColor;
-    color: #219653;
+    color: #067389;
 }
 
 .inp-checkbox .checkbox__box {
@@ -520,8 +520,8 @@ a:hover {
 }
 
 .inp-checkbox input:checked~label .checkbox__box {
-    background-color: #219653;
-    border-color: #219653;
+    background-color: #067389;
+    border-color: #067389;
 }
 
 .inp-checkbox input:checked~label .checkbox__box::after {
@@ -713,11 +713,11 @@ h5 {
 }
 
 html:not(.is-sidebar) .sidebar-burger span {
-    background-color: #219653;
+    background-color: #067389;
 }
 
 html.is-sidebar .sidebar-burger span {
-    background-color: #219653;
+    background-color: #067389;
 }
 
 .sidebar-burger span:not(:last-child) {
@@ -948,7 +948,7 @@ html.is-sidebar .sidebar-burger span {
     content: "";
     position: absolute;
     left: 0;
-    border: 2px solid #219653;
+    border: 2px solid #067389;
     border-radius: 50%;
 }
 
@@ -1074,7 +1074,7 @@ html.is-sidebar .sidebar-burger span {
     left: 0;
     bottom: 0;
     /* width: 2px; */
-    background-color: #219653;
+    background-color: #067389;
 }
 
 .experience__list-item {
@@ -1085,7 +1085,7 @@ html.is-sidebar .sidebar-burger span {
     content: "";
     position: absolute;
     /* background-color: #dddddd; */
-    border: 2px solid #219653;
+    border: 2px solid #067389;
     border-radius: 50%;
 }
 
@@ -1178,7 +1178,7 @@ html.is-sidebar .sidebar-burger span {
     top: 50%;
     width: 28px;
     height: 28px;
-    background-color: #219653;
+    background-color: #067389;
     border-radius: 50%;
     font-size: 0;
     line-height: 1;
@@ -1296,12 +1296,12 @@ input[type="range"] {
 input[type="range"]::-webkit-slider-runnable-track {
     border-radius: 10px/100%;
     height: 3px;
-    border: 1px solid #219653;
-    background-color: #219653;
+    border: 1px solid #067389;
+    background-color: #067389;
 }
 
 input[type="range"]::-webkit-slider-thumb {
-    background: #219653;
+    background: #067389;
 
     border-radius: 40px;
     cursor: pointer;

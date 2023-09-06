@@ -43,6 +43,34 @@
     max-width: 1170px;
 }
 
+.container-fluid_main {
+    max-width: 1170px;
+
+}
+
+.container-fluid_main {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.hello__label>p {
+    font-size: 20px;
+
+}
+
+@media (max-width: 768px) {
+    .container-fluid_main {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
 .brand {
     position: relative;
     z-index: 2;

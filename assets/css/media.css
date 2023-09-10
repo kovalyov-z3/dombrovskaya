@@ -467,7 +467,7 @@
     }
 
     .services__item_big {
-        padding: 40px 15px 50px 300px;
+        padding: 40px 15px 50px 35px;
     }
 
     .services__item_small {
@@ -479,7 +479,7 @@
     }
 
     .services__item_big .services__item-img {
-        width: 270px;
+        width: 0px;
     }
 
     .services__item_small .services__item-img {
@@ -851,7 +851,7 @@
     }
 
     .services__item {
-        padding: 205px 15px 35px;
+        padding: 32px 15px 35px;
     }
 
     h2 {
